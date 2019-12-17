@@ -1,4 +1,4 @@
-# Fake SSH
+# SSH Honey Kit
 
 Python program to emulate an ssh server as a sort of psuedo-honeypot with some fun commands. It will accept all connections given any provided username/password for authentication.
 
