@@ -1,2 +1,2 @@
-# securehoneyshell
+# ssh honey kit
 This is a group project aimed at building a SSH honeypot in python. 
