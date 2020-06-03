@@ -59,7 +59,7 @@ Browse and open the "log_parser.ipynb"
 ## Live Threat Map : OpenLTM
 This tool is required for plotting the intrusion activities on a world map in real time.
 ### Requirements
-Download/clone the OpenLTM library from this link:
+Download/clone the OpenLTM library from this link.
 Link: https://github.com/Xkdash/OpenLTM
 Open the LTM.py and change the path of the IP_logins.txt file as required.
 Fore more instructions go to the OpenLTM repository.
